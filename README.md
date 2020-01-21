@@ -15,7 +15,7 @@ Note: SFR interface zone type is "ASA" However FTD interface zone type is "Route
 
 - devided the zones to two different files "new-zones.json" and "old-zones.json"
 
-- then i executed the FMC.py file
+- then i executed the SFR-to-FTD.py file
 
 this contains script to do the following after the API login to the targeted FMC:
 1- select original policy (SFR Policy) to migrate from
