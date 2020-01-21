@@ -1,0 +1,22 @@
+[
+          {
+            "name": "A",
+            "id": "249aeb08-c500-11e5-968c-f3968379b3f3",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "B",
+            "id": "42dbb30e-c500-11e5-b0e6-fe42177c7383",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "C",
+            "id": "2f1d2014-c500-11e5-b0e6-fe42177c7383",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "D",
+            "id": "4da45a66-c500-11e5-968c-f3968379b3f3",
+            "type": "SecurityZone"
+          }
+        ]

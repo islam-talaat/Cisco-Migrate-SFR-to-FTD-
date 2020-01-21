@@ -1,0 +1,22 @@
+[
+          {
+            "name": "A_FTD",
+            "id": "7f3d1b02-31c4-11e8-9859-efb1704c3888",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "B_FTD",
+            "id": "6759de48-31b1-11e8-9859-efb1704c3888",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "C_FTD",
+            "id": "1f41d382-31c4-11e8-af4c-eb033187f5bc",
+            "type": "SecurityZone"
+          },
+          {
+            "name": "D_FTD",
+            "id": "2f4dc926-31c3-11e8-9859-efb1704c3888",
+            "type": "SecurityZone"
+          }
+        ]
